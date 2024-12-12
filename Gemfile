@@ -60,3 +60,6 @@ group :test do
 end
 
 gem "hotwire-rails", "~> 0.1.3"
+gem 'bootstrap', '~> 5.1.3'
+gem 'popper_js', '~> 2.11.8'
+gem 'sassc-rails'
